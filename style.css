@@ -1,0 +1,31 @@
+body {
+    background-color: #F08080;
+    font-family:sans-serif;
+}
+header, footer{
+    background-color:DarkSeaGreen;
+}
+main h1 {
+    text-align:center;
+}
+.fotochka {
+
+    margin-right:320px
+
+}
+
+.skidka {
+    background-color:LightSalmon;
+    margin-right:170px
+}
+.cena {
+    margin-right:320px
+}
+
+.gun {
+    margin-right:240px
+}
+footer {
+    border:1 px solid DarkSeaGreen;
+    border-radius: 10px;
+}
